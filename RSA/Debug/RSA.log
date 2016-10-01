@@ -1,0 +1,5 @@
+﻿  RSA.cpp
+c:\users\sergiy\documents\visual studio 2015\projects\rsa\rsa\rsa.cpp(103): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sergiy\documents\visual studio 2015\projects\rsa\rsa\rsa.cpp(42): warning C4715: metods::Sudarm: значение возвращается не при всех путях выполнения
+  RSA.vcxproj -> C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\RSA\Debug\RSA.exe
+  RSA.vcxproj -> C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\RSA\Debug\RSA.pdb (Full PDB)
